@@ -21,8 +21,8 @@ The **Add a suggestion** feature is a button in the comment text editor. It inse
 
 1. Click the **Add a suggestion** button to insert a modifiable copy of the line.
 
-   <img width="300" alt="add-a-suggestion-button" src="https://github.com/avxsharma-glitch/skills-review-pull-requests/blob/main/.github/images/add-a-suggestion-button.png?raw=true" />
-
+   <img width="300" alt="add-a-suggestion-button" src="https://github.com/skills/review-pull-requests/blob/main/.github/images/add-a-suggestion-button.png?raw=true" />
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
 1. Edit the suggestion to match below and click the **Comment** button.
 
    ````md
